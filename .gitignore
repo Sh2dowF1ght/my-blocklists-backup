@@ -1,0 +1,6 @@
+nrd*.txt
+dga*.txt
+dns-blocklists/domains/
+dns-blocklists/hosts/
+dns-blocklists/pac/
+dns-blocklists/rpz/tif.txt
